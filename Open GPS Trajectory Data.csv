@@ -1,0 +1,13 @@
+Name,Type,Spatial Range,Temporal Range,Download Link
+Chicago Data Portal,GPS traces from Chicago Transit Authority (CTA) buses,"Chicago, USA",Regularly updated,https://data.cityofchicago.org/Transportation/traffic-speed/5a25-jnzd/about_data
+Geolife GPS trajectory dataset,GPS trajectory dataset collected by users,Multiple cities,2007-2012,https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/
+TLC Trip Record Data,Taxi GPS trajectory,"NYC, USA",2009-2024,https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+SF Taxis or Cabspotting,Taxi GPS trajectory,"San Francisco, USA",2008,https://ieee-dataport.org/open-access/crawdad-epflmobility
+Rome Taxis,Taxi GPS trajectory,"Rome, Italy",2014,https://ieee-dataport.org/open-access/crawdad-romataxi
+Mobile Data Challenge,Taxi GPS trajectory,Lake Geneva Region,2009-2011,https://www.idiap.ch/dataset/mdc
+PrivateCarTrajectoryData,Private car GPS trajectory,"Shenzhen, China",2016,https://github.com/HunanUniversityZhuXiao/PrivateCarTrajectoryData
+TaxiBJ,Taxi traffic flow,"Beijing, China",Multiple time periods,https://github.com/Mouradost/ASTIR
+BikeNYC,Bike traffic flow,"NYC, USA",2014,https://github.com/Mouradost/ASTIR
+Traffic Speed Chengdu,Taxi traffic speed,"Chengdu, China",2015,https://doi.org/10.6084/m9.figshare.7140209.v4
+SHSpeed,Taxi traffic speed,"Shanghai, China",2015,https://github.com/xxArbiter/grnn
+TaxiSZ,Taxi traffic speed,"Shenzhen, China",2015,https://github.com/lehaifeng/T-GCN
