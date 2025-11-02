@@ -10,6 +10,7 @@ It provides a curated collection of publicly available **traffic-related dataset
 The repository includes:
 - **Datasets Combined.xlsx** — a master spreadsheet containing all datasets categorized across multiple sheets.
 - **Individual CSV files** — each dataset category (e.g., traffic counts, GPS trajectories, navigation data, etc.) is provided as a separate CSV file for easier programmatic access.
+- **References list.csv** - a CSV file with list of surveys analized in paper **"Current Challenges and Issues in Car Traffic Forecasting"**
 
 ```
 📁 traffic-forecasting-datasets-review/
@@ -20,6 +21,7 @@ The repository includes:
 ├── Open LBS Data.csv
 ├── Open Road Sensors Data.csv
 ├── Open Trip Survey Datasets.csv
+├── References list.csv
 └── README.md
 ```
 ---
