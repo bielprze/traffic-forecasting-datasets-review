@@ -1,0 +1,7 @@
+Name,Type,Spatial Range,Temporal Range,Download Link
+Highways England Network Journey Time and Traffic Flow Data,Journey Time & Traffic Flow,"England, UK",2015,https://data.gov.uk/dataset/9562c512-4a0b-45ee-b6ad-afc0f99b841f/highways-england-network-journey-time-and-traffic-flow-data
+Chicago Traffic Tracker Historical Congestion Estimates,Congestion Data,"Chicago, USA",2011-2018,https://data.cityofchicago.org/Transportation/Chicago-Traffic-Tracker-Historical-Congestion-Esti/77hq-huss/data
+US Accidents Dataset,Accident Data,USA,2016-2020,https://smoosavi.org/datasets/us_accidents
+California Traffic Census Data,Traffic Counts,"California, USA",2013-2022,https://dot.ca.gov/programs/traffic-operations/census
+GB Road Traffic Counts,Traffic Counts,Great Britain,2019-2023,https://www.data.gov.uk/dataset/208c0e7b-353f-4e2d-8b7a-1a7118467acc/gb-road-traffic-counts
+Canadian Road Traffic Data,Traffic Flow,Canada,2017,https://open.canada.ca/data/en/dataset/c77c495a-2a4c-447e-9184-25722289007f
